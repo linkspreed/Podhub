@@ -1,6 +1,6 @@
-# <img align="left" alt="Podhub" width="100px" src="https://streamvalley.cf/themes/youplay/img/icon.png" draggable="false" /> Podhub ([Click to try 🚀](https://podhub.cf/))
+# <img align="left" alt="Podhub" width="100px" src="https://podhub.cf/storage/215035924icon.png" draggable="false" /> Podhub ([Click to try 🚀](https://podhub.cf/))
 
-💙 Streamvalley - a video platform where everyone 🧑‍🤝‍🧑 can share their creativity✨, own knowledge 📚 or interesting and beautiful moments and watch🕶  other people.
+Podhub 🎧 - publish your podcasts 🎙️ and songs and securely host them on the servers ✨
 
 
 
