@@ -1,11 +1,11 @@
-# <img align="left" alt="Streamvalley" width="100px" src="https://streamvalley.cf/themes/youplay/img/icon.png" draggable="false" /> Streamvalley ([Click to try 🚀](https://streamvalley.cf/))
+# <img align="left" alt="Podhub" width="100px" src="https://streamvalley.cf/themes/youplay/img/icon.png" draggable="false" /> Podhub ([Click to try 🚀](https://podhub.cf/))
 
 💙 Streamvalley - a video platform where everyone 🧑‍🤝‍🧑 can share their creativity✨, own knowledge 📚 or interesting and beautiful moments and watch🕶  other people.
 
 
 
-## **[Changelog 💙](https://github.com/linkspreed/Streamvalley/blob/main/changelog.md)** **Check out the full Streamvalley changelog**
-## **[Special Works 👨‍💻](https://github.com/linkspreed/Streamvalley/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Streamvalley besides development**
+## **[Changelog 💙](https://github.com/linkspreed/Podhub/blob/main/changelog.md)** **Check out the full Podhub changelog**
+## **[Special Works 👨‍💻](https://github.com/linkspreed/Podhub/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Podhub besides development**
 
 
 <div align="center">
@@ -45,19 +45,19 @@ for our developers, users and anyone who comes into contact with ([Linkspreed �
 
 
 ### Welcome
-<img align="center" alt="Streamvalley" width="3000px" src="https://github.com/linkspreed/Streamvalley/blob/main/Screenshots/1.PNG" draggable="false" />
+<img align="center" alt="Podhub" width="3000px" src="https://github.com/linkspreed/Podhub/blob/main/Screenshots/1.PNG" draggable="false" />
 
 ### Timeline
-<img align="center" alt="Streamvalley" width="3000px" src="https://github.com/linkspreed/Streamvalley/blob/main/Screenshots/2.PNG" draggable="false" />
+<img align="center" alt="Podhub" width="3000px" src="https://github.com/linkspreed/Podhub/blob/main/Screenshots/2.PNG" draggable="false" />
 
 ### Dashboard
-<img align="center" alt="Streamvalley" width="3000px" src="https://github.com/linkspreed/Streamvalley/blob/main/Screenshots/3.PNG" draggable="false" />
+<img align="center" alt="Podhub" width="3000px" src="https://github.com/linkspreed/Podhub/blob/main/Screenshots/3.PNG" draggable="false" />
 
 ### Settings
-<img align="center" alt="Streamvalley" width="3000px" src="https://github.com/linkspreed/Streamvalley/blob/main/Screenshots/4.PNG" draggable="false" />
+<img align="center" alt="Podhub" width="3000px" src="https://github.com/linkspreed/Podhub/blob/main/Screenshots/4.PNG" draggable="false" />
 
 ### Profile
-<img align="center" alt="Streamvalley" width="3000px" src="https://github.com/linkspreed/Streamvalley/blob/main/Screenshots/5.PNG" draggable="false" />
+<img align="center" alt="Podhub" width="3000px" src="https://github.com/linkspreed/Podhub/blob/main/Screenshots/5.PNG" draggable="false" />
 
 ### Light mode
-<img align="center" alt="Streamvalley" width="3000px" src="https://github.com/linkspreed/Streamvalley/blob/main/Screenshots/6.PNG" draggable="false" />
+<img align="center" alt="Podhub" width="3000px" src="https://github.com/linkspreed/Podhub/blob/main/Screenshots/6.PNG" draggable="false" />
