@@ -59,7 +59,7 @@ for our developers, users and anyone who comes into contact with ([Linkspreed ðŸ
 ### Settings
 <img align="center" alt="Podhub" width="3000px" src="https://github.com/linkspreed/Podhub/blob/main/Screenshots/5.PNG" draggable="false" />
 
-### Profile
+### Podcasts
 <img align="center" alt="Podhub" width="3000px" src="https://github.com/linkspreed/Podhub/blob/main/Screenshots/6.PNG" draggable="false" />
 
 ### Night mode
