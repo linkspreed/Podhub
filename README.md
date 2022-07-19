@@ -53,7 +53,7 @@ for our developers, users and anyone who comes into contact with ([Linkspreed ðŸ
 ### Timeline
 <img align="center" alt="Podhub" width="3000px" src="https://github.com/linkspreed/Podhub/blob/main/Screenshots/3.PNG" draggable="false" />
 
-### Dashboard
+### Your Library
 <img align="center" alt="Podhub" width="3000px" src="https://github.com/linkspreed/Podhub/blob/main/Screenshots/4.PNG" draggable="false" />
 
 ### Settings
