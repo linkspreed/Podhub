@@ -47,17 +47,20 @@ for our developers, users and anyone who comes into contact with ([Linkspreed ðŸ
 ### Welcome
 <img align="center" alt="Podhub" width="3000px" src="https://github.com/linkspreed/Podhub/blob/main/Screenshots/1.PNG" draggable="false" />
 
-### Timeline
+### Open your account
 <img align="center" alt="Podhub" width="3000px" src="https://github.com/linkspreed/Podhub/blob/main/Screenshots/2.PNG" draggable="false" />
 
-### Dashboard
+### Timeline
 <img align="center" alt="Podhub" width="3000px" src="https://github.com/linkspreed/Podhub/blob/main/Screenshots/3.PNG" draggable="false" />
 
-### Settings
+### Dashboard
 <img align="center" alt="Podhub" width="3000px" src="https://github.com/linkspreed/Podhub/blob/main/Screenshots/4.PNG" draggable="false" />
 
-### Profile
+### Settings
 <img align="center" alt="Podhub" width="3000px" src="https://github.com/linkspreed/Podhub/blob/main/Screenshots/5.PNG" draggable="false" />
 
-### Night mode
+### Profile
 <img align="center" alt="Podhub" width="3000px" src="https://github.com/linkspreed/Podhub/blob/main/Screenshots/6.PNG" draggable="false" />
+
+### Night mode
+<img align="center" alt="Podhub" width="3000px" src="https://github.com/linkspreed/Podhub/blob/main/Screenshots/7.PNG" draggable="false" />
