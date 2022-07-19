@@ -15,21 +15,21 @@ Podhub 🎧 - publish your podcasts 🎙️ and songs and securely host them on 
 
 ## Features
 
- - **DASHBOARD** – Get an overview of your account and your tracked videos.
-
- - **STATS** – Get specific statistics & analytics reports for your content
+ - **Podcast hosting for free**
+ - **DASHBOARD** – Get an overview of your account and your tracked podcasts.
+ - **STATS** – Get specific statistics & analytics reports for your content.
  - **Chats**
- - **Upload Videos**
- - **Go Live**
- - **Import Videos**
+ - **Upload podcasts**
+ - **Create a radio station**
+ - **Import Music**
  - **Post, Like and Comment**
  - **AND SO MUCH MORE ...**
 
 
 ## More
  
-Streamvalley is **free**, **real-time** and with **unlimited** resources 
-for developers around the world.
+Podhub is **free**, **real-time** and with **unlimited** resources 
+for podcast creator around the world.
 
 Our focus is on **usability** and **security** 
 for our developers, users and anyone who comes into contact with ([Linkspreed 🚀](https://www.linkspreed.com/)).
@@ -39,7 +39,7 @@ for our developers, users and anyone who comes into contact with ([Linkspreed �
     is developed properly so that 
     the platform works as well as possible.
 ```
- You can enjoy Streamvalley freely and use all features to an unlimited extent.
+ You can enjoy Podhub freely and use all features to an unlimited extent.
 
 ## 📷 UI
 
